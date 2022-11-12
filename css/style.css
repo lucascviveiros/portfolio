@@ -26,7 +26,7 @@
 }
 
 /* spacing on all sections */
-#about, #services, #portfolio, #contact {
+#about, #services, #portfolio, #contact, #research {
     margin-top: 4rem;
     padding-top: 4rem;
 }
@@ -37,7 +37,6 @@
 .imageAboutPage {
     width: 100%;
 }
-
 
 /* social media icons styling */
 .social-icons {
@@ -54,4 +53,8 @@
 #footer {
     background-color: #808080;
     text-align: center;
+}
+
+p.indent {
+    text-indent: 30px;
 }
