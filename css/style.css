@@ -51,7 +51,9 @@
 }
 /* footer styling */
 #footer {
-    background-color: #808080;
+    /* background-color: #808080; */
+    background-color: rgba(128, 128, 128, 0.5); /* Adjust the opacity value as desired */
+
     text-align: center;
 }
 
