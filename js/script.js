@@ -12,7 +12,7 @@ window.onscroll = function() {
     } else {
       header.classList.remove("navbarDark");
     }
-  }, 1000); // Set the desired delay time (1000 milliseconds in this example)
+  }, 3000); // Set the desired delay time in miliseconds
 };
 
 const navLinks = document.querySelectorAll(".nav-item");
